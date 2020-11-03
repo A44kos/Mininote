@@ -1,2 +1,2 @@
-<Version: 1.00>asxasasdasd
+<Version: 1.00>
 <End of Version>
